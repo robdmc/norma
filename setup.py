@@ -18,6 +18,8 @@ def get_version():
 
 
 install_requires = [
+    'pandas',
+    'scipy',
 ]
 
 tests_require = [
